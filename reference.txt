@@ -1,2 +1,3 @@
-https://medium.freecodecamp.com/the-right-way-to-test-react-components-548a4736ab22
+https://medium.freecodecamp.com/the-right-way-to-test-react-components-548a4736ab22  
 http://hugogiraudel.com/2015/06/18/styling-react-components-in-sass/
+http://jonathancreamer.com/setup-eslint-with-es6-in-sublime-text/
